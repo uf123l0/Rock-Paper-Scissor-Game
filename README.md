@@ -26,5 +26,6 @@ Edit
 git clone https://github.com/yourusername/rock-paper-scissors.git
 Open the index.html file in your favorite browser.
 Enjoy the game!
-![Screenshot (11)](https://github.com/user-attachments/assets/0dcff244-766f-4747-bf8c-3a6eec32d58b)
+![Screenshot (11)](https://github.com/user-attachments/assets/c59e246d-498e-492a-8750-c21f5b02d025)
+
 
